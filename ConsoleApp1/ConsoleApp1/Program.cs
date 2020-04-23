@@ -8,6 +8,7 @@ namespace ConsoleApp1 {
   class Program {
     static void Main(string[] args) {
       Console.WriteLine("GitHub Test");
+      Console.WriteLine("GitHub Test 2");
     }
   }
 }
