@@ -9,6 +9,7 @@ namespace ConsoleApp1 {
     static void Main(string[] args) {
       Console.WriteLine("GitHub Test");
       Console.WriteLine("GitHub Test 2");
+      Console.WriteLine("GitHub Brunch 1 수정 1");
     }
   }
 }
